@@ -587,6 +587,9 @@
   "sosl": {
     "revision": "ca70b2347a79615cd749517f6c6c2352e50a7ce9"
   },
+  "sourcepawn": {
+    "revision": "372eba9ea977640c7f874ec9081821571de658e3"
+  },
   "sparql": {
     "revision": "05f949d3c1c15e3261473a244d3ce87777374dec"
   },

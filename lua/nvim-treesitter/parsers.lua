@@ -1856,6 +1856,15 @@ M.configs = {
     maintainers = { '@aheber' },
   },
 
+  sourcepawn = {
+    install_info = {
+      url = 'https://github.com/Sarrus1/tree-sitter-sourcepawn',
+      files = { 'src/parser.c', 'src/scanner.c' },
+    },
+    maintainers = { '@Sarrus1' },
+    tier = 3,
+  },
+
   sparql = {
     install_info = {
       url = 'https://github.com/BonaBeavis/tree-sitter-sparql',
